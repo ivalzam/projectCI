@@ -1,3 +1,3 @@
 <?php 
-echo "Iki beajar1";
+echo "iki belajar";
  ?>
